@@ -1,0 +1,19 @@
+[
+    {
+    "Category": "Flora",
+    "Entries": [
+          {
+                "Label": "Tree Hollowss-NDL",
+                "AssetPaths": ["standardhollowchest-*","standardhollowchestfilled-*"],
+                "Defaults": {
+                    "Enabled": true,
+                    "Title": "Tree Hollow",
+                    "Icon": "tree2",
+                    "Color": "black",
+                    "Pinned": false,
+                    "CoverageRadius": 1
+                }
+            },
+        ]
+    },
+]
